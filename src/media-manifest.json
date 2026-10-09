@@ -1,0 +1,232 @@
+{
+  "/assets/fincompliance-3-1.webp": {
+    "width": 2024,
+    "height": 1190,
+    "variants": [
+      {
+        "src": "/assets/responsive/fincompliance-3-1-480.webp",
+        "width": 480,
+        "bytes": 16124
+      },
+      {
+        "src": "/assets/responsive/fincompliance-3-1-960.webp",
+        "width": 960,
+        "bytes": 45886
+      },
+      {
+        "src": "/assets/responsive/fincompliance-3-1-1440.webp",
+        "width": 1440,
+        "bytes": 76834
+      },
+      {
+        "src": "/assets/fincompliance-3-1.webp",
+        "width": 2024,
+        "bytes": 147472
+      }
+    ]
+  },
+  "/assets/oneprompt-figure-3.webp": {
+    "width": 1200,
+    "height": 596,
+    "variants": [
+      {
+        "src": "/assets/responsive/oneprompt-figure-3-480.webp",
+        "width": 480,
+        "bytes": 15090
+      },
+      {
+        "src": "/assets/responsive/oneprompt-figure-3-960.webp",
+        "width": 960,
+        "bytes": 40722
+      },
+      {
+        "src": "/assets/oneprompt-figure-3.webp",
+        "width": 1200,
+        "bytes": 78000
+      }
+    ]
+  },
+  "/assets/smartrec-pipeline.webp": {
+    "width": 1458,
+    "height": 768,
+    "variants": [
+      {
+        "src": "/assets/responsive/smartrec-pipeline-480.webp",
+        "width": 480,
+        "bytes": 19516
+      },
+      {
+        "src": "/assets/responsive/smartrec-pipeline-960.webp",
+        "width": 960,
+        "bytes": 46732
+      },
+      {
+        "src": "/assets/responsive/smartrec-pipeline-1440.webp",
+        "width": 1440,
+        "bytes": 75864
+      },
+      {
+        "src": "/assets/smartrec-pipeline.webp",
+        "width": 1458,
+        "bytes": 99954
+      }
+    ]
+  },
+  "/assets/equity_curve.webp": {
+    "width": 1760,
+    "height": 960,
+    "variants": [
+      {
+        "src": "/assets/responsive/equity_curve-480.webp",
+        "width": 480,
+        "bytes": 17004
+      },
+      {
+        "src": "/assets/responsive/equity_curve-960.webp",
+        "width": 960,
+        "bytes": 42870
+      },
+      {
+        "src": "/assets/responsive/equity_curve-1440.webp",
+        "width": 1440,
+        "bytes": 70160
+      },
+      {
+        "src": "/assets/equity_curve.webp",
+        "width": 1760,
+        "bytes": 108016
+      }
+    ]
+  },
+  "/assets/rl-comparison.webp": {
+    "width": 2000,
+    "height": 1133,
+    "variants": [
+      {
+        "src": "/assets/responsive/rl-comparison-480.webp",
+        "width": 480,
+        "bytes": 4666
+      },
+      {
+        "src": "/assets/responsive/rl-comparison-960.webp",
+        "width": 960,
+        "bytes": 11728
+      },
+      {
+        "src": "/assets/responsive/rl-comparison-1440.webp",
+        "width": 1440,
+        "bytes": 19670
+      },
+      {
+        "src": "/assets/rl-comparison.webp",
+        "width": 2000,
+        "bytes": 37714
+      }
+    ]
+  },
+  "/assets/dreamnest-device.webp": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "src": "/assets/responsive/dreamnest-device-480.webp",
+        "width": 480,
+        "bytes": 32946
+      },
+      {
+        "src": "/assets/responsive/dreamnest-device-960.webp",
+        "width": 960,
+        "bytes": 100924
+      },
+      {
+        "src": "/assets/dreamnest-device.webp",
+        "width": 1024,
+        "bytes": 155156
+      }
+    ]
+  },
+  "/assets/profile.jpg": {
+    "width": 914,
+    "height": 1280,
+    "variants": [
+      {
+        "src": "/assets/responsive/profile-128.webp",
+        "width": 128,
+        "bytes": 4504
+      },
+      {
+        "src": "/assets/responsive/profile-256.webp",
+        "width": 256,
+        "bytes": 12084
+      },
+      {
+        "src": "/assets/profile.jpg",
+        "width": 914,
+        "bytes": 169401
+      }
+    ]
+  },
+  "/assets/evidence/dreamnest-pitch.webp": {
+    "width": 1500,
+    "height": 2000,
+    "variants": [
+      {
+        "src": "/assets/responsive/dreamnest-pitch-480.webp",
+        "width": 480,
+        "bytes": 43210
+      },
+      {
+        "src": "/assets/responsive/dreamnest-pitch-960.webp",
+        "width": 960,
+        "bytes": 118248
+      },
+      {
+        "src": "/assets/evidence/dreamnest-pitch.webp",
+        "width": 1500,
+        "bytes": 273770
+      }
+    ]
+  },
+  "/assets/evidence/dreamnest-event.webp": {
+    "width": 1500,
+    "height": 2000,
+    "variants": [
+      {
+        "src": "/assets/responsive/dreamnest-event-480.webp",
+        "width": 480,
+        "bytes": 65410
+      },
+      {
+        "src": "/assets/responsive/dreamnest-event-960.webp",
+        "width": 960,
+        "bytes": 209084
+      },
+      {
+        "src": "/assets/evidence/dreamnest-event.webp",
+        "width": 1500,
+        "bytes": 587654
+      }
+    ]
+  },
+  "/assets/evidence/dreamnest-award.webp": {
+    "width": 1500,
+    "height": 2000,
+    "variants": [
+      {
+        "src": "/assets/responsive/dreamnest-award-480.webp",
+        "width": 480,
+        "bytes": 74086
+      },
+      {
+        "src": "/assets/responsive/dreamnest-award-960.webp",
+        "width": 960,
+        "bytes": 226218
+      },
+      {
+        "src": "/assets/evidence/dreamnest-award.webp",
+        "width": 1500,
+        "bytes": 622940
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "fincompliance-paper": {
+    "file": "/assets/evidence/fincompliance-paper.pdf",
+    "pages": [
+      {
+        "src": "/assets/evidence/fincompliance-paper-1.webp",
+        "width": 1700,
+        "height": 2200
+      },
+      {
+        "src": "/assets/evidence/fincompliance-paper-2.webp",
+        "width": 1700,
+        "height": 2200
+      },
+      {
+        "src": "/assets/evidence/fincompliance-paper-3.webp",
+        "width": 1700,
+        "height": 2200
+      },
+      {
+        "src": "/assets/evidence/fincompliance-paper-4.webp",
+        "width": 1700,
+        "height": 2200
+      },
+      {
+        "src": "/assets/evidence/fincompliance-paper-5.webp",
+        "width": 1700,
+        "height": 2200
+      }
+    ]
+  },
+  "oneprompt-poster": {
+    "file": "/assets/evidence/oneprompt-poster.pdf",
+    "pages": [
+      {
+        "src": "/assets/evidence/oneprompt-poster-1.webp",
+        "width": 1554,
+        "height": 2200
+      }
+    ]
+  },
+  "portfolio-rl-paper": {
+    "file": "/assets/evidence/portfolio-rl-paper.pdf",
+    "pages": [
+      {
+        "src": "/assets/evidence/portfolio-rl-paper-1.webp",
+        "width": 1700,
+        "height": 2200
+      },
+      {
+        "src": "/assets/evidence/portfolio-rl-paper-2.webp",
+        "width": 1700,
+        "height": 2200
+      },
+      {
+        "src": "/assets/evidence/portfolio-rl-paper-3.webp",
+        "width": 1700,
+        "height": 2200
+      },
+      {
+        "src": "/assets/evidence/portfolio-rl-paper-4.webp",
+        "width": 1700,
+        "height": 2200
+      },
+      {
+        "src": "/assets/evidence/portfolio-rl-paper-5.webp",
+        "width": 1700,
+        "height": 2200
+      },
+      {
+        "src": "/assets/evidence/portfolio-rl-paper-6.webp",
+        "width": 1700,
+        "height": 2200
+      },
+      {
+        "src": "/assets/evidence/portfolio-rl-paper-7.webp",
+        "width": 1700,
+        "height": 2200
+      },
+      {
+        "src": "/assets/evidence/portfolio-rl-paper-8.webp",
+        "width": 1700,
+        "height": 2200
+      }
+    ]
+  },
+  "dreamnest-final-deck": {
+    "file": "/assets/evidence/dreamnest-final-deck.pdf",
+    "pages": [
+      {
+        "src": "/assets/evidence/dreamnest-final-deck-1.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/assets/evidence/dreamnest-final-deck-2.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/assets/evidence/dreamnest-final-deck-3.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/assets/evidence/dreamnest-final-deck-4.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/assets/evidence/dreamnest-final-deck-5.webp",
+        "width": 2200,
+        "height": 1238
+      }
+    ]
+  },
+  "smartrec-poster": {
+    "file": "/assets/evidence/smartrec-surf-poster.jpg",
+    "src": "/assets/evidence/smartrec-surf-poster.webp",
+    "width": 1920,
+    "height": 2718
+  },
+  "dreamnest-poster": {
+    "file": "/assets/evidence/dreamnest-poster.png",
+    "src": "/assets/evidence/dreamnest-poster.webp",
+    "width": 1056,
+    "height": 1446
+  },
+  "dreamnest-photos": [
+    {
+      "src": "/assets/evidence/dreamnest-pitch.webp",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "src": "/assets/evidence/dreamnest-event.webp",
+      "width": 1500,
+      "height": 2000
+    },
+    {
+      "src": "/assets/evidence/dreamnest-award.webp",
+      "width": 1500,
+      "height": 2000
+    }
+  ]
+}
