@@ -1,0 +1,23 @@
+node_modules/
+dist/
+.DS_Store
+qa/
+
+# Local source records and document extraction tools are not deployable inputs.
+/CONTENT_SOURCES.json
+/PERFORMANCE_AUDIT.md
+/scripts/prepare-assets.py
+/scripts/prepare-chart.py
+/scripts/prepare-evidence.mjs
+
+# Credentials, local hosting state and editor output.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.log
+.wrangler/
+.local-gh/
+.vscode/
+.idea/
