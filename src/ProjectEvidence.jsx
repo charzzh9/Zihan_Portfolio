@@ -15,6 +15,7 @@ function DocumentReader({ document, language, c }) {
   return <details className="document-reader" open={open} onToggle={event => setOpen(event.currentTarget.open)}>
     <summary><FileText size={19} aria-hidden="true" /><span>{title}</span><ChevronDown className="document-chevron" size={19} aria-hidden="true" /></summary>
     {open && <div className="document-body">
+      {document.note && <p className="evidence-note">{document.note[language]}</p>}
       <div className="document-toolbar">
         <OriginalLink href={document.file}>{c.openPdf}</OriginalLink>
         <div className="document-pagination" role="group" aria-label={title}>
@@ -24,7 +25,7 @@ function DocumentReader({ document, language, c }) {
         </div>
       </div>
       <a className="document-page" href={document.file} target="_blank" rel="noreferrer" aria-label={`${title} · ${c.openPdf}`} style={{ aspectRatio: `${page.width} / ${page.height}` }}>
-        <img key={page.src} src={page.src} width={page.width} height={page.height} alt={`${title} · ${c.page} ${pageIndex + 1}`} loading="lazy" decoding="async" />
+        <ResponsiveImage key={page.src} src={page.src} width={page.width} height={page.height} sizes="(max-width: 700px) calc(100vw - 70px), (max-width: 1000px) calc(100vw - 148px), 852px" alt={`${title} · ${c.page} ${pageIndex + 1}`} loading="lazy" />
       </a>
     </div>}
   </details>;
@@ -35,14 +36,19 @@ export default function ProjectEvidence({ project, language, c }) {
 
   return <section className="project-evidence" aria-label={c.materials}>
     <h3 className="evidence-heading">{c.materials}</h3>
-    {project.gallery && <div className="evidence-gallery">{project.gallery.map(photo => <figure key={photo.src}>
-      <a href={photo.src} target="_blank" rel="noreferrer" aria-label={`${photo.caption[language]} · ${c.openImage}`}><ResponsiveImage src={photo.src} sizes="(max-width: 700px) calc(100vw - 70px), (max-width: 1000px) calc((100vw - 180px) / 3), 274px" alt={photo.caption[language]} loading="lazy" /></a>
+    {project.gallery && <div className={`evidence-gallery${project.gallery.length === 1 ? ' gallery-single' : ''}`}>{project.gallery.map(photo => <figure key={photo.src}>
+      <a href={photo.src} target="_blank" rel="noreferrer" aria-label={`${photo.caption[language]} · ${c.openImage}`}><ResponsiveImage src={photo.src} sizes={project.gallery.length === 1 ? '(max-width: 700px) calc(100vw - 70px), (max-width: 1000px) calc(100vw - 148px), 820px' : '(max-width: 700px) calc(100vw - 70px), (max-width: 1000px) calc((100vw - 180px) / 3), 274px'} alt={photo.caption[language]} loading="lazy" /></a>
       <figcaption>{photo.caption[language]}<ArrowUpRight size={14} aria-hidden="true" /></figcaption>
     </figure>)}</div>}
     {project.posters?.map(poster => <figure className="evidence-poster" key={poster.src}>
       <figcaption><span>{poster.title[language]}</span><OriginalLink href={poster.file}>{c.openOriginal}</OriginalLink></figcaption>
       {poster.note && <p className="evidence-note">{poster.note[language]}</p>}
-      <a className="poster-image" href={poster.file} target="_blank" rel="noreferrer" aria-label={`${poster.title[language]} · ${c.openOriginal}`}><img src={poster.src} width={poster.width} height={poster.height} alt={poster.title[language]} loading="lazy" decoding="async" /></a>
+      {poster.panels ? <div className="poster-panels" tabIndex={0} role="group" aria-label={poster.title[language]}>
+        {poster.panels.map((panel, index) => <figure className="poster-panel" key={panel.src}>
+          <a href={panel.src} target="_blank" rel="noreferrer" aria-label={`${panel.caption[language]} · ${c.openImage}`}><ResponsiveImage src={panel.src} sizes="(max-width: 560px) calc((100vw - 70px) * 0.76), (max-width: 700px) calc((100vw - 98px) / 3), (max-width: 1000px) calc((100vw - 176px) / 3), 264px" alt={panel.caption[language]} loading="lazy" /></a>
+          <figcaption><span>{String(index + 1).padStart(2, '0')} · {panel.caption[language]}</span><ArrowUpRight size={14} aria-hidden="true" /></figcaption>
+        </figure>)}
+      </div> : <a className="poster-image" href={poster.file} target="_blank" rel="noreferrer" aria-label={`${poster.title[language]} · ${c.openOriginal}`}><ResponsiveImage src={poster.src} width={poster.width} height={poster.height} sizes="(max-width: 700px) calc(100vw - 70px), (max-width: 1000px) calc(100vw - 148px), 852px" alt={poster.title[language]} loading="lazy" /></a>}
     </figure>)}
     {project.documents?.map(document => <DocumentReader key={document.file} document={document} language={language} c={c} />)}
   </section>;

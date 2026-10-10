@@ -228,5 +228,1078 @@
         "bytes": 622940
       }
     ]
+  },
+  "/assets/petlink-prototype.webp": {
+    "width": 1600,
+    "height": 1172,
+    "variants": [
+      {
+        "src": "/assets/responsive/petlink-prototype-480.webp",
+        "width": 480,
+        "bytes": 15780
+      },
+      {
+        "src": "/assets/responsive/petlink-prototype-960.webp",
+        "width": 960,
+        "bytes": 38802
+      },
+      {
+        "src": "/assets/responsive/petlink-prototype-1440.webp",
+        "width": 1440,
+        "bytes": 62356
+      },
+      {
+        "src": "/assets/petlink-prototype.webp",
+        "width": 1600,
+        "bytes": 82878
+      }
+    ]
+  },
+  "/assets/evidence/petlink-presentation.webp": {
+    "width": 1600,
+    "height": 779,
+    "variants": [
+      {
+        "src": "/assets/responsive/petlink-presentation-480.webp",
+        "width": 480,
+        "bytes": 20630
+      },
+      {
+        "src": "/assets/responsive/petlink-presentation-960.webp",
+        "width": 960,
+        "bytes": 49620
+      },
+      {
+        "src": "/assets/responsive/petlink-presentation-1440.webp",
+        "width": 1440,
+        "bytes": 77218
+      },
+      {
+        "src": "/assets/evidence/petlink-presentation.webp",
+        "width": 1600,
+        "bytes": 103934
+      }
+    ]
+  },
+  "/assets/ebike-presentation.webp": {
+    "width": 1600,
+    "height": 955,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-presentation-480.webp",
+        "width": 480,
+        "bytes": 22526
+      },
+      {
+        "src": "/assets/responsive/ebike-presentation-960.webp",
+        "width": 960,
+        "bytes": 54678
+      },
+      {
+        "src": "/assets/responsive/ebike-presentation-1440.webp",
+        "width": 1440,
+        "bytes": 84998
+      },
+      {
+        "src": "/assets/ebike-presentation.webp",
+        "width": 1600,
+        "bytes": 115794
+      }
+    ]
+  },
+  "/assets/dreamnest-deck-cover.webp": {
+    "width": 1600,
+    "height": 900,
+    "variants": [
+      {
+        "src": "/assets/responsive/dreamnest-deck-cover-480.webp",
+        "width": 480,
+        "bytes": 28570
+      },
+      {
+        "src": "/assets/responsive/dreamnest-deck-cover-960.webp",
+        "width": 960,
+        "bytes": 73432
+      },
+      {
+        "src": "/assets/responsive/dreamnest-deck-cover-1440.webp",
+        "width": 1440,
+        "bytes": 117718
+      },
+      {
+        "src": "/assets/dreamnest-deck-cover.webp",
+        "width": 1600,
+        "bytes": 152690
+      }
+    ]
+  },
+  "/assets/ebike-deck-cover.webp": {
+    "width": 1600,
+    "height": 900,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-deck-cover-480.webp",
+        "width": 480,
+        "bytes": 16648
+      },
+      {
+        "src": "/assets/responsive/ebike-deck-cover-960.webp",
+        "width": 960,
+        "bytes": 42760
+      },
+      {
+        "src": "/assets/responsive/ebike-deck-cover-1440.webp",
+        "width": 1440,
+        "bytes": 68206
+      },
+      {
+        "src": "/assets/ebike-deck-cover.webp",
+        "width": 1600,
+        "bytes": 112772
+      }
+    ]
+  },
+  "/assets/evidence/ebike-prototype-panel-1.webp": {
+    "width": 1176,
+    "height": 1830,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-prototype-panel-1-480.webp",
+        "width": 480,
+        "bytes": 23074
+      },
+      {
+        "src": "/assets/responsive/ebike-prototype-panel-1-960.webp",
+        "width": 960,
+        "bytes": 47378
+      },
+      {
+        "src": "/assets/evidence/ebike-prototype-panel-1.webp",
+        "width": 1176,
+        "bytes": 74036
+      }
+    ]
+  },
+  "/assets/evidence/ebike-prototype-panel-2.webp": {
+    "width": 1176,
+    "height": 1378,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-prototype-panel-2-480.webp",
+        "width": 480,
+        "bytes": 18452
+      },
+      {
+        "src": "/assets/responsive/ebike-prototype-panel-2-960.webp",
+        "width": 960,
+        "bytes": 38734
+      },
+      {
+        "src": "/assets/evidence/ebike-prototype-panel-2.webp",
+        "width": 1176,
+        "bytes": 57464
+      }
+    ]
+  },
+  "/assets/evidence/ebike-prototype-panel-3.webp": {
+    "width": 1176,
+    "height": 1702,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-prototype-panel-3-480.webp",
+        "width": 480,
+        "bytes": 13186
+      },
+      {
+        "src": "/assets/responsive/ebike-prototype-panel-3-960.webp",
+        "width": 960,
+        "bytes": 28328
+      },
+      {
+        "src": "/assets/evidence/ebike-prototype-panel-3.webp",
+        "width": 1176,
+        "bytes": 42116
+      }
+    ]
+  },
+  "/assets/evidence/fincompliance-paper-1.webp": {
+    "width": 1700,
+    "height": 2200,
+    "variants": [
+      {
+        "src": "/assets/responsive/fincompliance-paper-1-960.webp",
+        "width": 960,
+        "bytes": 228888
+      },
+      {
+        "src": "/assets/evidence/fincompliance-paper-1.webp",
+        "width": 1700,
+        "bytes": 514278
+      }
+    ]
+  },
+  "/assets/evidence/fincompliance-paper-2.webp": {
+    "width": 1700,
+    "height": 2200,
+    "variants": [
+      {
+        "src": "/assets/responsive/fincompliance-paper-2-960.webp",
+        "width": 960,
+        "bytes": 246998
+      },
+      {
+        "src": "/assets/evidence/fincompliance-paper-2.webp",
+        "width": 1700,
+        "bytes": 549052
+      }
+    ]
+  },
+  "/assets/evidence/fincompliance-paper-3.webp": {
+    "width": 1700,
+    "height": 2200,
+    "variants": [
+      {
+        "src": "/assets/responsive/fincompliance-paper-3-960.webp",
+        "width": 960,
+        "bytes": 176838
+      },
+      {
+        "src": "/assets/evidence/fincompliance-paper-3.webp",
+        "width": 1700,
+        "bytes": 398474
+      }
+    ]
+  },
+  "/assets/evidence/fincompliance-paper-4.webp": {
+    "width": 1700,
+    "height": 2200,
+    "variants": [
+      {
+        "src": "/assets/responsive/fincompliance-paper-4-960.webp",
+        "width": 960,
+        "bytes": 185424
+      },
+      {
+        "src": "/assets/evidence/fincompliance-paper-4.webp",
+        "width": 1700,
+        "bytes": 418920
+      }
+    ]
+  },
+  "/assets/evidence/fincompliance-paper-5.webp": {
+    "width": 1700,
+    "height": 2200,
+    "variants": [
+      {
+        "src": "/assets/responsive/fincompliance-paper-5-960.webp",
+        "width": 960,
+        "bytes": 258176
+      },
+      {
+        "src": "/assets/evidence/fincompliance-paper-5.webp",
+        "width": 1700,
+        "bytes": 583692
+      }
+    ]
+  },
+  "/assets/evidence/oneprompt-poster-1.webp": {
+    "width": 1554,
+    "height": 2200,
+    "variants": [
+      {
+        "src": "/assets/responsive/oneprompt-poster-1-960.webp",
+        "width": 960,
+        "bytes": 220846
+      },
+      {
+        "src": "/assets/evidence/oneprompt-poster-1.webp",
+        "width": 1554,
+        "bytes": 451796
+      }
+    ]
+  },
+  "/assets/evidence/portfolio-rl-paper-1.webp": {
+    "width": 1700,
+    "height": 2200,
+    "variants": [
+      {
+        "src": "/assets/responsive/portfolio-rl-paper-1-960.webp",
+        "width": 960,
+        "bytes": 92200
+      },
+      {
+        "src": "/assets/evidence/portfolio-rl-paper-1.webp",
+        "width": 1700,
+        "bytes": 217204
+      }
+    ]
+  },
+  "/assets/evidence/portfolio-rl-paper-2.webp": {
+    "width": 1700,
+    "height": 2200,
+    "variants": [
+      {
+        "src": "/assets/responsive/portfolio-rl-paper-2-960.webp",
+        "width": 960,
+        "bytes": 106118
+      },
+      {
+        "src": "/assets/evidence/portfolio-rl-paper-2.webp",
+        "width": 1700,
+        "bytes": 241454
+      }
+    ]
+  },
+  "/assets/evidence/portfolio-rl-paper-3.webp": {
+    "width": 1700,
+    "height": 2200,
+    "variants": [
+      {
+        "src": "/assets/responsive/portfolio-rl-paper-3-960.webp",
+        "width": 960,
+        "bytes": 106034
+      },
+      {
+        "src": "/assets/evidence/portfolio-rl-paper-3.webp",
+        "width": 1700,
+        "bytes": 236052
+      }
+    ]
+  },
+  "/assets/evidence/portfolio-rl-paper-4.webp": {
+    "width": 1700,
+    "height": 2200,
+    "variants": [
+      {
+        "src": "/assets/responsive/portfolio-rl-paper-4-960.webp",
+        "width": 960,
+        "bytes": 98020
+      },
+      {
+        "src": "/assets/evidence/portfolio-rl-paper-4.webp",
+        "width": 1700,
+        "bytes": 224746
+      }
+    ]
+  },
+  "/assets/evidence/portfolio-rl-paper-5.webp": {
+    "width": 1700,
+    "height": 2200,
+    "variants": [
+      {
+        "src": "/assets/responsive/portfolio-rl-paper-5-960.webp",
+        "width": 960,
+        "bytes": 100142
+      },
+      {
+        "src": "/assets/evidence/portfolio-rl-paper-5.webp",
+        "width": 1700,
+        "bytes": 228170
+      }
+    ]
+  },
+  "/assets/evidence/portfolio-rl-paper-6.webp": {
+    "width": 1700,
+    "height": 2200,
+    "variants": [
+      {
+        "src": "/assets/responsive/portfolio-rl-paper-6-960.webp",
+        "width": 960,
+        "bytes": 72828
+      },
+      {
+        "src": "/assets/evidence/portfolio-rl-paper-6.webp",
+        "width": 1700,
+        "bytes": 168360
+      }
+    ]
+  },
+  "/assets/evidence/portfolio-rl-paper-7.webp": {
+    "width": 1700,
+    "height": 2200,
+    "variants": [
+      {
+        "src": "/assets/responsive/portfolio-rl-paper-7-960.webp",
+        "width": 960,
+        "bytes": 127492
+      },
+      {
+        "src": "/assets/evidence/portfolio-rl-paper-7.webp",
+        "width": 1700,
+        "bytes": 299040
+      }
+    ]
+  },
+  "/assets/evidence/portfolio-rl-paper-8.webp": {
+    "width": 1700,
+    "height": 2200,
+    "variants": [
+      {
+        "src": "/assets/responsive/portfolio-rl-paper-8-960.webp",
+        "width": 960,
+        "bytes": 144780
+      },
+      {
+        "src": "/assets/evidence/portfolio-rl-paper-8.webp",
+        "width": 1700,
+        "bytes": 351228
+      }
+    ]
+  },
+  "/assets/evidence/dreamnest-final-deck-1.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/dreamnest-final-deck-1-960.webp",
+        "width": 960,
+        "bytes": 78568
+      },
+      {
+        "src": "/assets/evidence/dreamnest-final-deck-1.webp",
+        "width": 2200,
+        "bytes": 219834
+      }
+    ]
+  },
+  "/assets/evidence/dreamnest-final-deck-2.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/dreamnest-final-deck-2-960.webp",
+        "width": 960,
+        "bytes": 81992
+      },
+      {
+        "src": "/assets/evidence/dreamnest-final-deck-2.webp",
+        "width": 2200,
+        "bytes": 311498
+      }
+    ]
+  },
+  "/assets/evidence/dreamnest-final-deck-3.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/dreamnest-final-deck-3-960.webp",
+        "width": 960,
+        "bytes": 65930
+      },
+      {
+        "src": "/assets/evidence/dreamnest-final-deck-3.webp",
+        "width": 2200,
+        "bytes": 197278
+      }
+    ]
+  },
+  "/assets/evidence/dreamnest-final-deck-4.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/dreamnest-final-deck-4-960.webp",
+        "width": 960,
+        "bytes": 78768
+      },
+      {
+        "src": "/assets/evidence/dreamnest-final-deck-4.webp",
+        "width": 2200,
+        "bytes": 227346
+      }
+    ]
+  },
+  "/assets/evidence/dreamnest-final-deck-5.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/dreamnest-final-deck-5-960.webp",
+        "width": 960,
+        "bytes": 62802
+      },
+      {
+        "src": "/assets/evidence/dreamnest-final-deck-5.webp",
+        "width": 2200,
+        "bytes": 169884
+      }
+    ]
+  },
+  "/assets/evidence/smartrec-surf-poster.webp": {
+    "width": 1920,
+    "height": 2718,
+    "variants": [
+      {
+        "src": "/assets/responsive/smartrec-surf-poster-960.webp",
+        "width": 960,
+        "bytes": 234134
+      },
+      {
+        "src": "/assets/evidence/smartrec-surf-poster.webp",
+        "width": 1920,
+        "bytes": 692852
+      }
+    ]
+  },
+  "/assets/evidence/dreamnest-poster.webp": {
+    "width": 1056,
+    "height": 1446,
+    "variants": [
+      {
+        "src": "/assets/responsive/dreamnest-poster-960.webp",
+        "width": 960,
+        "bytes": 137002
+      },
+      {
+        "src": "/assets/evidence/dreamnest-poster.webp",
+        "width": 1056,
+        "bytes": 170670
+      }
+    ]
+  },
+  "/assets/evidence/petlink-prototype-full.webp": {
+    "width": 2400,
+    "height": 3383,
+    "variants": [
+      {
+        "src": "/assets/responsive/petlink-prototype-full-960.webp",
+        "width": 960,
+        "bytes": 77942
+      },
+      {
+        "src": "/assets/evidence/petlink-prototype-full.webp",
+        "width": 2400,
+        "bytes": 268540
+      }
+    ]
+  },
+  "/assets/evidence/ebike-prototype-full.webp": {
+    "width": 1176,
+    "height": 4910,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-prototype-full-960.webp",
+        "width": 960,
+        "bytes": 122944
+      },
+      {
+        "src": "/assets/evidence/ebike-prototype-full.webp",
+        "width": 1176,
+        "bytes": 167370
+      }
+    ]
+  },
+  "/assets/evidence/petlink-demo-deck-1.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/petlink-demo-deck-1-960.webp",
+        "width": 960,
+        "bytes": 41224
+      },
+      {
+        "src": "/assets/evidence/petlink-demo-deck-1.webp",
+        "width": 2200,
+        "bytes": 106568
+      }
+    ]
+  },
+  "/assets/evidence/petlink-demo-deck-2.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/petlink-demo-deck-2-960.webp",
+        "width": 960,
+        "bytes": 64252
+      },
+      {
+        "src": "/assets/evidence/petlink-demo-deck-2.webp",
+        "width": 2200,
+        "bytes": 178626
+      }
+    ]
+  },
+  "/assets/evidence/petlink-demo-deck-3.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/petlink-demo-deck-3-960.webp",
+        "width": 960,
+        "bytes": 39284
+      },
+      {
+        "src": "/assets/evidence/petlink-demo-deck-3.webp",
+        "width": 2200,
+        "bytes": 109550
+      }
+    ]
+  },
+  "/assets/evidence/petlink-demo-deck-4.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/petlink-demo-deck-4-960.webp",
+        "width": 960,
+        "bytes": 53148
+      },
+      {
+        "src": "/assets/evidence/petlink-demo-deck-4.webp",
+        "width": 2200,
+        "bytes": 165840
+      }
+    ]
+  },
+  "/assets/evidence/petlink-demo-deck-5.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/petlink-demo-deck-5-960.webp",
+        "width": 960,
+        "bytes": 73554
+      },
+      {
+        "src": "/assets/evidence/petlink-demo-deck-5.webp",
+        "width": 2200,
+        "bytes": 213158
+      }
+    ]
+  },
+  "/assets/evidence/petlink-demo-deck-6.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/petlink-demo-deck-6-960.webp",
+        "width": 960,
+        "bytes": 58348
+      },
+      {
+        "src": "/assets/evidence/petlink-demo-deck-6.webp",
+        "width": 2200,
+        "bytes": 164668
+      }
+    ]
+  },
+  "/assets/evidence/petlink-demo-deck-7.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/petlink-demo-deck-7-960.webp",
+        "width": 960,
+        "bytes": 49080
+      },
+      {
+        "src": "/assets/evidence/petlink-demo-deck-7.webp",
+        "width": 2200,
+        "bytes": 133590
+      }
+    ]
+  },
+  "/assets/evidence/petlink-demo-deck-8.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/petlink-demo-deck-8-960.webp",
+        "width": 960,
+        "bytes": 45252
+      },
+      {
+        "src": "/assets/evidence/petlink-demo-deck-8.webp",
+        "width": 2200,
+        "bytes": 125860
+      }
+    ]
+  },
+  "/assets/evidence/petlink-demo-deck-9.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/petlink-demo-deck-9-960.webp",
+        "width": 960,
+        "bytes": 67464
+      },
+      {
+        "src": "/assets/evidence/petlink-demo-deck-9.webp",
+        "width": 2200,
+        "bytes": 216852
+      }
+    ]
+  },
+  "/assets/evidence/petlink-demo-deck-10.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/petlink-demo-deck-10-960.webp",
+        "width": 960,
+        "bytes": 31682
+      },
+      {
+        "src": "/assets/evidence/petlink-demo-deck-10.webp",
+        "width": 2200,
+        "bytes": 84882
+      }
+    ]
+  },
+  "/assets/evidence/ebike-final-deck-1.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-final-deck-1-960.webp",
+        "width": 960,
+        "bytes": 51840
+      },
+      {
+        "src": "/assets/evidence/ebike-final-deck-1.webp",
+        "width": 2200,
+        "bytes": 168308
+      }
+    ]
+  },
+  "/assets/evidence/ebike-final-deck-2.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-final-deck-2-960.webp",
+        "width": 960,
+        "bytes": 71360
+      },
+      {
+        "src": "/assets/evidence/ebike-final-deck-2.webp",
+        "width": 2200,
+        "bytes": 260076
+      }
+    ]
+  },
+  "/assets/evidence/ebike-final-deck-3.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-final-deck-3-960.webp",
+        "width": 960,
+        "bytes": 56284
+      },
+      {
+        "src": "/assets/evidence/ebike-final-deck-3.webp",
+        "width": 2200,
+        "bytes": 211866
+      }
+    ]
+  },
+  "/assets/evidence/ebike-final-deck-4.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-final-deck-4-960.webp",
+        "width": 960,
+        "bytes": 84210
+      },
+      {
+        "src": "/assets/evidence/ebike-final-deck-4.webp",
+        "width": 2200,
+        "bytes": 327878
+      }
+    ]
+  },
+  "/assets/evidence/ebike-final-deck-5.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-final-deck-5-960.webp",
+        "width": 960,
+        "bytes": 54726
+      },
+      {
+        "src": "/assets/evidence/ebike-final-deck-5.webp",
+        "width": 2200,
+        "bytes": 210082
+      }
+    ]
+  },
+  "/assets/evidence/ebike-final-deck-6.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-final-deck-6-960.webp",
+        "width": 960,
+        "bytes": 52590
+      },
+      {
+        "src": "/assets/evidence/ebike-final-deck-6.webp",
+        "width": 2200,
+        "bytes": 164330
+      }
+    ]
+  },
+  "/assets/evidence/ebike-final-deck-7.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-final-deck-7-960.webp",
+        "width": 960,
+        "bytes": 76494
+      },
+      {
+        "src": "/assets/evidence/ebike-final-deck-7.webp",
+        "width": 2200,
+        "bytes": 276088
+      }
+    ]
+  },
+  "/assets/evidence/ebike-final-deck-8.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-final-deck-8-960.webp",
+        "width": 960,
+        "bytes": 55350
+      },
+      {
+        "src": "/assets/evidence/ebike-final-deck-8.webp",
+        "width": 2200,
+        "bytes": 210284
+      }
+    ]
+  },
+  "/assets/evidence/ebike-final-deck-9.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-final-deck-9-960.webp",
+        "width": 960,
+        "bytes": 65044
+      },
+      {
+        "src": "/assets/evidence/ebike-final-deck-9.webp",
+        "width": 2200,
+        "bytes": 280280
+      }
+    ]
+  },
+  "/assets/evidence/ebike-final-deck-10.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-final-deck-10-960.webp",
+        "width": 960,
+        "bytes": 67612
+      },
+      {
+        "src": "/assets/evidence/ebike-final-deck-10.webp",
+        "width": 2200,
+        "bytes": 238606
+      }
+    ]
+  },
+  "/assets/evidence/ebike-final-deck-11.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-final-deck-11-960.webp",
+        "width": 960,
+        "bytes": 86140
+      },
+      {
+        "src": "/assets/evidence/ebike-final-deck-11.webp",
+        "width": 2200,
+        "bytes": 327582
+      }
+    ]
+  },
+  "/assets/evidence/ebike-final-deck-12.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-final-deck-12-960.webp",
+        "width": 960,
+        "bytes": 55264
+      },
+      {
+        "src": "/assets/evidence/ebike-final-deck-12.webp",
+        "width": 2200,
+        "bytes": 210160
+      }
+    ]
+  },
+  "/assets/evidence/ebike-final-deck-13.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-final-deck-13-960.webp",
+        "width": 960,
+        "bytes": 77906
+      },
+      {
+        "src": "/assets/evidence/ebike-final-deck-13.webp",
+        "width": 2200,
+        "bytes": 266994
+      }
+    ]
+  },
+  "/assets/evidence/ebike-final-deck-14.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-final-deck-14-960.webp",
+        "width": 960,
+        "bytes": 55162
+      },
+      {
+        "src": "/assets/evidence/ebike-final-deck-14.webp",
+        "width": 2200,
+        "bytes": 209190
+      }
+    ]
+  },
+  "/assets/evidence/ebike-final-deck-15.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-final-deck-15-960.webp",
+        "width": 960,
+        "bytes": 74216
+      },
+      {
+        "src": "/assets/evidence/ebike-final-deck-15.webp",
+        "width": 2200,
+        "bytes": 276916
+      }
+    ]
+  },
+  "/assets/evidence/ebike-final-deck-16.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-final-deck-16-960.webp",
+        "width": 960,
+        "bytes": 68950
+      },
+      {
+        "src": "/assets/evidence/ebike-final-deck-16.webp",
+        "width": 2200,
+        "bytes": 263876
+      }
+    ]
+  },
+  "/assets/evidence/ebike-final-deck-17.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-final-deck-17-960.webp",
+        "width": 960,
+        "bytes": 54568
+      },
+      {
+        "src": "/assets/evidence/ebike-final-deck-17.webp",
+        "width": 2200,
+        "bytes": 208970
+      }
+    ]
+  },
+  "/assets/evidence/ebike-final-deck-18.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-final-deck-18-960.webp",
+        "width": 960,
+        "bytes": 68714
+      },
+      {
+        "src": "/assets/evidence/ebike-final-deck-18.webp",
+        "width": 2200,
+        "bytes": 287154
+      }
+    ]
+  },
+  "/assets/evidence/ebike-final-deck-19.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-final-deck-19-960.webp",
+        "width": 960,
+        "bytes": 53904
+      },
+      {
+        "src": "/assets/evidence/ebike-final-deck-19.webp",
+        "width": 2200,
+        "bytes": 207214
+      }
+    ]
+  },
+  "/assets/evidence/ebike-final-deck-20.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-final-deck-20-960.webp",
+        "width": 960,
+        "bytes": 77146
+      },
+      {
+        "src": "/assets/evidence/ebike-final-deck-20.webp",
+        "width": 2200,
+        "bytes": 295060
+      }
+    ]
+  },
+  "/assets/evidence/ebike-final-deck-21.webp": {
+    "width": 2200,
+    "height": 1238,
+    "variants": [
+      {
+        "src": "/assets/responsive/ebike-final-deck-21-960.webp",
+        "width": 960,
+        "bytes": 65682
+      },
+      {
+        "src": "/assets/evidence/ebike-final-deck-21.webp",
+        "width": 2200,
+        "bytes": 230618
+      }
+    ]
+  },
+  "/assets/drawdown.webp": {
+    "width": 1760,
+    "height": 800,
+    "variants": [
+      {
+        "src": "/assets/responsive/drawdown-960.webp",
+        "width": 960,
+        "bytes": 48842
+      },
+      {
+        "src": "/assets/drawdown.webp",
+        "width": 1760,
+        "bytes": 116070
+      }
+    ]
   }
 }
